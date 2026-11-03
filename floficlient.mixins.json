@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.example.floficlient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["ClientPlayerInteractionManagerAccessor", "LogoDrawerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
